@@ -42,5 +42,7 @@ Unassigned alerts are visible on the side, making it easy to pick up new work wi
 
 Wireframe - https://github.com/navjot-kr/accuknox-product-assignment/blob/main/wireframe/Screen%202%20-%20Assigned%20Alerts.png
 
+Figma link: https://www.figma.com/design/3UmV1ciBhrZJp90mQcrh7v/AccuKnox-%E2%80%93-Alert-Triage-Wireframes?node-id=0-1&t=nYfcXRBrm6SvyUjh-1
+
 
 
