@@ -38,3 +38,17 @@ Success Metrics:
 
   Collaboration - 
   Usage of assign and co-assign actions, indicating how often alerts are shared or jointly handled by multiple users.
+
+Development Discussion Points:
+
+  Confirm which alert details are available and how missing information should be handled.
+
+  Clarify whether alerts are auto-assigned or manually assigned, and who has permission to assign them.
+
+  Confirm whether users can collaborate with other teams on an alert when required.
+
+  Clarify whether an alert can have multiple owners through co-assignment, and who is allowed to co-assign alerts.
+
+  Decide how alerts that do not require immediate action should be handled (for example, deprioritized or closed).
+
+  Clarify what happens when an alert is assigned to a user who is not currently logged in.
