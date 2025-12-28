@@ -22,4 +22,8 @@ Goals: Quickly identify and act on critical or actionable alerts.
 
 Pain Points: Overwhelmed by a high volume of non-actionable or low-importance alerts, making prioritization difficult, causing delays, increasing stress, and leading to poor decision-making during critical situations.
 
+Wireframes -
+
+The following wireframes illustrate the alert triage experience for a security engineer, focusing on prioritisation, assignment, and situational awareness.
+
 
