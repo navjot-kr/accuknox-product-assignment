@@ -26,9 +26,21 @@ Wireframes using figma -
 
 The following wireframes illustrate the alert triage experience for a security engineer, focusing on prioritisation, assignment, and situational awareness.
 
-Screen 1 : https://github.com/navjot-kr/accuknox-product-assignment/blob/main/wireframe/Screen%201%20-%20Alert%20Overview.png
+Screen 1 : Alert Overview
 
-Screen 2 : https://github.com/navjot-kr/accuknox-product-assignment/blob/main/wireframe/Screen%202%20-%20Assigned%20Alerts.png
+This screen gives users a quick view of all alerts in one place.
+Alerts are grouped by assignment status — assigned to me, assigned to others, and unassigned — so users can easily see what needs attention.
+Basic details like alert ID, severity, and status help users decide where to focus first.
+
+Wireframe - https://github.com/navjot-kr/accuknox-product-assignment/blob/main/wireframe/Screen%201%20-%20Alert%20Overview.png
+
+Screen 2 : Assigned Alerts
+
+This screen shows alerts that are assigned to the current user.
+Users can view alert details, set priority, and co-assign alerts if help is needed.
+Unassigned alerts are visible on the side, making it easy to pick up new work without leaving the screen.
+
+Wireframe - https://github.com/navjot-kr/accuknox-product-assignment/blob/main/wireframe/Screen%202%20-%20Assigned%20Alerts.png
 
 
 
