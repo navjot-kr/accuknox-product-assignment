@@ -5,8 +5,8 @@ The Alert Triage Workflow is designed to help teams quickly review incoming aler
 
 Proposed Features:
 
-  Alert Overview with Ownership Status - 
-  Displays alerts with Alert ID, severity, and status, clearly indicating whether each alert is assigned to the user, assigned to others, or unassigned.
+    Alert Overview with Ownership Status - 
+      Displays alerts with Alert ID, severity, and status, clearly indicating whether each alert is assigned to the user, assigned to others, or unassigned.
 
   Assigned vs Unassigned Alerts Grouping - 
   Alerts are grouped into assigned and unassigned sections, helping users quickly identify alerts that need immediate ownership.
