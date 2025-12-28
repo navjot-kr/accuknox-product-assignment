@@ -12,5 +12,7 @@ Problem Statement: Security engineers often struggle to prioritize security aler
 
 USER PERSONA:
 Role: Security Engineer
+
 Environment: Cloud Security
+
 Responsibilities: Monitor and investigate security alerts to protect cloud systems.
