@@ -22,7 +22,7 @@ Goals: Quickly identify and act on critical or actionable alerts.
 
 Pain Points: Overwhelmed by a high volume of non-actionable or low-importance alerts, making prioritization difficult, causing delays, increasing stress, and leading to poor decision-making during critical situations.
 
-Wireframes -
+Wireframes using figma -
 
 The following wireframes illustrate the alert triage experience for a security engineer, focusing on prioritisation, assignment, and situational awareness.
 
@@ -30,5 +30,5 @@ Screen 1 : https://github.com/navjot-kr/accuknox-product-assignment/blob/main/wi
 
 Screen 2 : https://github.com/navjot-kr/accuknox-product-assignment/blob/main/wireframe/Screen%202%20-%20Assigned%20Alerts.png
 
-Screen 3 : 
+
 
