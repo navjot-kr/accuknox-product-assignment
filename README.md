@@ -10,9 +10,16 @@ Reason: I chose this option because it allows me to focus on understanding the s
 
 Problem Statement: Security engineers often struggle to prioritize security alerts due to a high volume of low-importance or non-actionable alerts. This overload delays the response to critical alerts, creates stress and operational chaos, and ultimately leads to poor or delayed decision-making during critical security incidents.
 
-USER PERSONA:
+User Persona:
+
 Role: Security Engineer
 
 Environment: Cloud Security
 
 Responsibilities: Monitor and investigate security alerts to protect cloud systems.
+
+Goals: Quickly identify and act on critical or actionable alerts.
+
+Pain Points: Overwhelmed by a high volume of non-actionable or low-importance alerts, making prioritization difficult, causing delays, increasing stress, and leading to poor decision-making during critical situations.
+
+
