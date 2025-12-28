@@ -26,7 +26,9 @@ Wireframes -
 
 The following wireframes illustrate the alert triage experience for a security engineer, focusing on prioritisation, assignment, and situational awareness.
 
-Screen 1 : wireframe/Screen 2 - Assigned Alerts.png
+Screen 1 : https://github.com/navjot-kr/accuknox-product-assignment/blob/main/wireframe/Screen%201%20-%20Alert%20Overview.png
 
-Screen 2 :
+Screen 2 : https://github.com/navjot-kr/accuknox-product-assignment/blob/main/wireframe/Screen%202%20-%20Assigned%20Alerts.png
+
+Screen 3 : 
 
